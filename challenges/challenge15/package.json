@@ -1,0 +1,19 @@
+{
+  "name": "challenge15",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tree.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
