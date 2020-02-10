@@ -22,7 +22,7 @@ describe('Making the binary tree', ()=>{
     four.right = six;
     four.left = seven;
         
-    tree = new BinaryTree(one); //because its a root node
+    tree = new BinaryTree(one); //because ones a root node
   });
   it('preOrder()', ()=>{ // function
     //    console.log(tree.preOrder());
